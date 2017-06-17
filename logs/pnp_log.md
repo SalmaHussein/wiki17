@@ -53,7 +53,6 @@ Policies and Practices team log
 #### TODO
 - Recording first podcast episode, getting in touch with professors+ grad students, wet lab summer camp activity space
 
-
 ---
 ### Week 3: June 5 - June 11
 
